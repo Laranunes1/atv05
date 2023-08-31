@@ -1,10 +1,10 @@
 const nomes = [];
-nomes[0] = "Pedro" ;
-nomes[1] = "Jubileu" ;
-nomes[2] = "Ana" ;
-nomes[3] = "Rebeca" ;
-nomes[4] = "Maria" ;
-nomes[10] = "Mariazinha" ;
+nomes[0] = "Mariana" ;
+nomes[1] = "Ana Maria" ;
+nomes[2] = "Dudu" ;
+nomes[3] = "Gerson" ;
+nomes[4] = "Gedson" ;
+nomes[10] = "Lara" ;
 
 console.table(nomes);
 
